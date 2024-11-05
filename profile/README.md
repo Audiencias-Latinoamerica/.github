@@ -29,7 +29,7 @@ We cover over 12.3 million Pay TV households and more than 48 million streaming 
 - **Reach and Viewing Time**: Audience reach and viewing duration.
 
 ## Links of Interest
-[Data Hub](https://github.com/Audiencias-Latinoamerica/Data-Hub/wiki)
+[DataHub](https://github.com/Audiencias-Latinoamerica/Data-Hub/wiki)
 
 ## Join Us
 
